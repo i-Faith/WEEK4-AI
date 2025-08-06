@@ -1,5 +1,5 @@
-AI Assignment 
-📌 Overview
+#### AI Assignment 
+- 📌 Overview
 This project is part of an AI coursework assignment that involves building and evaluating machine learning models for predictive analytics.
 The focus is on predicting breast cancer using the popular Breast Cancer Wisconsin dataset, while also exploring theoretical knowledge and ethical considerations of AI in software engineering.
 
@@ -69,6 +69,7 @@ spaCy
 Jupyter Notebook
 
 Selenium WebDriver
+
 
 
 - This project was completed as part of an academic assignment on AI in Software Engineering.
